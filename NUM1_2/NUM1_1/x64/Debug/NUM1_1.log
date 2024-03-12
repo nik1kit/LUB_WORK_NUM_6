@@ -1,0 +1,4 @@
+﻿  BigInteger.cpp
+C:\Users\User\Desktop\Projects\Лабы на C++\LAB_WORK_NUM_6\NUM1_1\NUM1_1\BigInteger.cpp(131,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Projects\Лабы на C++\LAB_WORK_NUM_6\NUM1_1\NUM1_1\BigInteger.cpp(464,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  NUM1_1.vcxproj -> C:\Users\User\Desktop\Projects\Лабы на C++\LAB_WORK_NUM_6\NUM1_1\x64\Debug\NUM1_1.exe
